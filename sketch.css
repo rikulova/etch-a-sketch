@@ -1,7 +1,7 @@
 div {
 	height: 200px;
 	width: 200px;
-	outline: solid 5px red;
+	outline: solid 5px green;
 	display: inline-block;
 }
 
