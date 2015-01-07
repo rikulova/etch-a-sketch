@@ -7,7 +7,6 @@ $(document).ready(function(){
 	$("button").click(function(){
 		$(".square").remove();
 		size  = prompt("How many squares?");
-		$("div").css("background-color", "white");
 		populate(size);
 		sketch();
 
